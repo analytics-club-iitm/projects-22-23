@@ -9,7 +9,8 @@ title: Coordinator
 
 # Description
 
-To be updated.
+The coordinators will be at the heart of the club’s activities throughout the year. Any new sessions, new club
+initiatives, new mini projects will be handled by the coordinators with the core team just guiding them. They’ll be involved in micro-managing every aspect of the club’s activities throughout the year. The coordinators will play an essential role in keeping the enthusiasm up among the club members throughout the year.
 
 
 <p align="center">
@@ -32,7 +33,7 @@ To apply as a coordinator one must write the application consisting of two parts
 
 # Submission Deadline
 
-Completed applications are to be submitted by **9th May 2022 11:59PM**!
+Completed applications are to be submitted by **3rd May 2022 11:59PM**!
 
 <h3>
     <center><a style="background-color:#ffcc00;" href="https://forms.gle/kFZyvJkfpcT2hYk66">Submission Link</a></center>
