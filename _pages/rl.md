@@ -4,16 +4,19 @@ title: VHA
 ---
 
 <h1>
-    <center>Reinforcement Learning for Virtual Home Tasks</center>
+    <center>Chitti: Reinforcement Learning for Virtual Home Tasks</center>
 </h1>
 
 # Description
 
-To be updated.
+Have you ever wondered how Virtual Assistants like ‘Siri’ and ‘Alexa’ work? Or Chitti from Movie Robot was Programmed to perform complex tasks? We aim to build a virtual home tasker using Reinforcement Learning techniques. We’ll first be training agents (virtual robots) in a highly efficient photorealistic 3D simulation before transferring the learned skills to reality. This will be a transition from ‘internet AI’ based on static datasets to AI agents which act within realistic environments. 
+This will lead to a doorway to developing an android humanoid robot, which can help people in their household work and generalize it to outdoor and indoor tasks.
+The above video describes the environment and the basic actions that the machine will perform and would be trained using Reinforcement Learning techniques. 
+
 
 
 <p align="center">
-    <img src="assets/images/RL_Home_Task.gif" width="100%">
+    <img src="assets/images/RL_Home_Task.gif" width="75%">
 </p>
 
 # Application Process

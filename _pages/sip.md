@@ -9,12 +9,30 @@ title: [SIP] Project Pingala
 
 # Description
 
-To be updated.
+Sanskrit is a beautiful language consisting of various meters and tunes. Sanskrit verses are amazing to hear when sung in the right way. Our goal is to build a speech synthesizer for Sanskrit poetry. The synthesizer takes in the Sanskrit text as input, considers the “meter” in which a given verse is composed, and modulates the syllables accordingly to generate the speech.
+Many great Sanskrit scholars struggle to recite verses written using meters like Āryā, which are tough to recite. Hence, this tool would aid scholars and learners in improving their pronunciation of Sanskrit verses. We would aim to create a dataset and publish it publicly to encourage more research works in this field. Future works would also include generalizing the approach to other languages like Tamil, Telugu, etc. 
+The below example depicts how very similar-looking verses are pronounced entirely differently meters.
 
+<h3>
+    <center><a href="https://drive.google.com/file/d/1yuOQk7EEY0mbvgE76rxaKsi6D0SDV0gw/view?usp=drivesdk"
+    अस्मिन्विकारःखहरे न राशावपि प्रविष्टेष्वपि निस्सृतेषु।
+    बहुष्वपि स्याल्लयसृष्टिकाले अनन्तेऽच्युते भूतगणेषु यद्वत्।।
+    </a></center>
+</h3>
 
-<p align="center">
-    <img src="" width="100%">
-</p>
+<h3>
+    <center><a href="https://drive.google.com/file/d/1z-Jw7Yg3jJisz-cerpBfUCMxDSdlPjV4/view?usp=sharing"
+    सैकपदघ्नपदार्धमथैकाद्यङ्कयुतिःकिल सङ्कलिताख्या।
+    सा द्वियुतेन पदेन विनिघ्नी स्यात्तृहृता खलु सङ्कलितैक्यम्।।
+    </a></center>
+</h3>
+
+<h3>
+    <center><a href="https://drive.google.com/file/d/1yn7jj-A9HFrRJE-6nNsDGjK2PsRIHOHl/view?usp=sharing"
+    भाज्यो हारः क्षेपकश्चापवर्त्यःकेनाप्यादौ सम्भवे कुट्टकार्थम्।
+    येनच्छिन्नौ भाज्यहारौ न तेन क्षेपश्चेत्तद्दुष्टमुद्दिष्टमेव।।
+    </a></center>
+</h3>
 
 # Application Process
 

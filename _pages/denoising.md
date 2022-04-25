@@ -1,19 +1,20 @@
 ---
 layout: page
-title: PCD
+title: Point Cloud De-noising
 ---
 
 <h1>
-    <center>Point Cloud De-noising in Urban Lidar Scans</center>
+    <center>CleanTheLiDAR: Point Cloud De-noising in Urban Lidar Scans</center>
 </h1>
 
 # Description
 
-To be updated.
+LiDAR is a valuable technology for various industries, from robotics and land mapping to autonomous vehicles. One of the most common uses for LiDAR is autonomous driving. But LiDAR brings a lot of noise to the data, which causes poor accuracy while performing segmentation and object recognition tasks. Deep Learning has shown tremendous success in Point Cloud processing tasks, but there has been almost no progress in denoising Point Cloud LiDAR data. 
+The impact of this project will be tremendous, especially in the field of Autonomous Driving and Robotics, and can inspire future research in this space.
 
 
 <p align="center">
-    <img src="assets/images/3D.gif" width="100%">
+    <img src="assets/images/3D.gif" width="75%">
 </p>
 
 # Application Process

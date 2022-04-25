@@ -9,11 +9,19 @@ title: AI4AR
 
 # Description
 
-To be updated.
+
+Ever visualized crazy objects? Or have you seen an Avocado-shaped chair? Is it possible to generate such images? Have you heard of <a href="https://openai.com/blog/dall-e/">DALL·E</a>, which creates images from text captions? 
+This project aims to generate realistic 3D object renders (generating the geometry and color of a wide range of objects without 3D supervision) from text descriptions. Future works could include focusing on a particular domain like MRI Scans etc. 
+The video is an example of a 3D render of ‘a robot in the shape of a dog.’
+
 
 
 <p align="center">
-    <img src="assets/images/AI4AR.gif" width="100%">
+    <img src="assets/images/AI4AR.gif" width="75%">
+</p>
+
+<p align="center">
+    <img src="assets/images/dallee.jpeg" width="75%">
 </p>
 
 # Application Process

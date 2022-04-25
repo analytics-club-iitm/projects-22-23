@@ -32,12 +32,12 @@ To apply as a coordinator one must write the application consisting of two parts
 
 # Submission Deadline
 
-Completed applications are to be submitted by **9th May 2022 11:59PM**!
+Completed applications are to be submitted by **3rd May 2022 11:59PM**!
 
 <h3>
     <center><a style="background-color:#ffcc00;" href="https://forms.gle/kFZyvJkfpcT2hYk66">Submission Link</a></center>
 </h3>
 
 <div class="container">
-    <div class="countdown-styled" data-date="May 9, 2022 23:59:59"></div>
+    <div class="countdown-styled" data-date="May 3, 2022 23:59:59"></div>
 </div>
