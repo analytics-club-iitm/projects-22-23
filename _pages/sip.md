@@ -14,21 +14,21 @@ Many great Sanskrit scholars struggle to recite verses written using meters like
 The below example depicts how very similar-looking verses are pronounced entirely differently meters.
 
 <h3>
-    <center><a href="https://drive.google.com/file/d/1yuOQk7EEY0mbvgE76rxaKsi6D0SDV0gw/view?usp=drivesdk"
+    <center><a href="https://drive.google.com/file/d/1yuOQk7EEY0mbvgE76rxaKsi6D0SDV0gw/view?usp=drivesdk">
     अस्मिन्विकारःखहरे न राशावपि प्रविष्टेष्वपि निस्सृतेषु।
     बहुष्वपि स्याल्लयसृष्टिकाले अनन्तेऽच्युते भूतगणेषु यद्वत्।।
     </a></center>
 </h3>
 
 <h3>
-    <center><a href="https://drive.google.com/file/d/1z-Jw7Yg3jJisz-cerpBfUCMxDSdlPjV4/view?usp=sharing"
+    <center><a href="https://drive.google.com/file/d/1z-Jw7Yg3jJisz-cerpBfUCMxDSdlPjV4/view?usp=sharing">
     सैकपदघ्नपदार्धमथैकाद्यङ्कयुतिःकिल सङ्कलिताख्या।
     सा द्वियुतेन पदेन विनिघ्नी स्यात्तृहृता खलु सङ्कलितैक्यम्।।
     </a></center>
 </h3>
 
 <h3>
-    <center><a href="https://drive.google.com/file/d/1yn7jj-A9HFrRJE-6nNsDGjK2PsRIHOHl/view?usp=sharing"
+    <center><a href="https://drive.google.com/file/d/1yn7jj-A9HFrRJE-6nNsDGjK2PsRIHOHl/view?usp=sharing">
     भाज्यो हारः क्षेपकश्चापवर्त्यःकेनाप्यादौ सम्भवे कुट्टकार्थम्।
     येनच्छिन्नौ भाज्यहारौ न तेन क्षेपश्चेत्तद्दुष्टमुद्दिष्टमेव।।
     </a></center>
