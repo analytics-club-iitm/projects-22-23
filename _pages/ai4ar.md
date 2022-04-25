@@ -4,7 +4,7 @@ title: AI4AR
 ---
 
 <h1>
-    <center>AI4AR: AI for Augmented Reality</center>
+    <center>AI4AR: Text Guided Object Hallucination</center>
 </h1>
 
 # Description

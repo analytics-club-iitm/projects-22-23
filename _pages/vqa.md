@@ -4,7 +4,7 @@ title: AI on Edge
 ---
 
 <h1>
-    <center>AI on Edge</center>
+    <center>AI on Edge: Efficient Visual Question Answering</center>
 </h1>
 
 # Description

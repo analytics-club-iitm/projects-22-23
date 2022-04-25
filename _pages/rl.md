@@ -4,7 +4,7 @@ title: VHA
 ---
 
 <h1>
-    <center>Virtual Home Assistant</center>
+    <center>Reinforcement Learning for Virtual Home Tasks</center>
 </h1>
 
 # Description

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Playing with Point Clouds
+title: Point Cloud De-noising
 ---
 
 <h1>
-    <center>Playing with Point Clouds</center>
+    <center>Point Cloud De-noising in Urban Lidar Scans</center>
 </h1>
 
 # Description
