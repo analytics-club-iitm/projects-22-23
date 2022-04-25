@@ -35,9 +35,9 @@ To apply as a coordinator one must write the application consisting of two parts
 
 Completed applications are to be submitted by **3rd May 2022 11:59PM**!
 
-<h3>
-    <center><a href="https://forms.gle/kFZyvJkfpcT2hYk66">Submission Link</a></center>
-</h3>
+<!-- <h3>
+<center><a href="https://forms.gle/kFZyvJkfpcT2hYk66">Submission Link</a></center>
+</h3> -->
 
 <div class="container">
     <div class="countdown-styled" data-date="May 3, 2022 23:59:59"></div>
