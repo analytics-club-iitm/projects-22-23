@@ -1,0 +1,50 @@
+site: projects-21-22
+url: https://analytics-club-iitm.github.io/projects-21-22
+# url: 
+title: projects-21-22
+description: Projects hosted by the Analytics Club, CFI, IITM for the year 2021-2022
+
+permalink: pretty
+
+paginate:            1000
+paginate_path:       "/page:num/"
+baseurl:             ""
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
+markdown: kramdown
