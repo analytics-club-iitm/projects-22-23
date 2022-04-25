@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interest
+title: Project Member Interest
 ---
 
 Incase any of the projects interest you, please fill the following form. (If you are interested in multiple projects, please fill the form once for every project.)

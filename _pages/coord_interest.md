@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interest
+title: Coordinator Interest
 ---
 
 If you are interested in becoming a coordinator in the Analytics Club please fill the form.
