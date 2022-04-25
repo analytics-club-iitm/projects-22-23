@@ -4,16 +4,15 @@ title: AI on Edge
 ---
 
 <h1>
-    <center>AI on Edge</center>
+    <center>AI on Edge: Efficient Visual Question Answering</center>
 </h1>
 
 # Description
 
-To be updated.
-
+Have you ever wondered how easy it would be for visually impaired people if they had a lifelong assistant to whom they could ask questions about what they see around them? We aim to develop a device, which takes in the image as the input, and the user can ask relevant questions regarding the image, and the machine replies with an answer taking in the Image as a context. We plan to integrate this tool into an edge device to make it accessible to physically challenged people. The illustration bellow gives you a taste of what the tool can achieve. 
 
 <p align="center">
-    <img src="assets/images/VQA.gif" width="100%">
+    <img src="assets/images/VQA.gif" width="75%">
 </p>
 
 # Application Process
@@ -23,11 +22,11 @@ To apply for this project one must attempt to solve a (simple) selection task an
 - Additional questions which are related to the project itself. There is no right or wrong answer to these questions and its basically to understand your thought process.
 
 <h3>
-    <center><a style="background-color:#ffcc00;" href="https://docs.google.com/forms/d/e/1FAIpQLScG9TfAb8HqwiD2QWCrCt8ow29TwXuZsUVh1Oxx_GnHeXw5ww/viewform?usp=sf_link">Interest Form</a></center>
+    <center><a href="https://docs.google.com/forms/d/e/1FAIpQLScG9TfAb8HqwiD2QWCrCt8ow29TwXuZsUVh1Oxx_GnHeXw5ww/viewform?usp=sf_link">Interest Form</a></center>
 </h3>
 
 <h3>
-    <center><a style="background-color:#ffcc00;" href="https://docs.google.com/document/d/1aKnjR931XnUDpf5CFhDPcpOb6dOj28cG/edit#heading=h.59nal09o3hw3">Application Link</a></center>
+    <center><a href="https://docs.google.com/document/d/1aKnjR931XnUDpf5CFhDPcpOb6dOj28cG/edit#heading=h.59nal09o3hw3">Application Link</a></center>
 </h3>
 
 > **TIP**: Deep Learning was invented to mimic how a neuron/human learns (atleast to a certain degree). Keep this in mind while answering the questions above. Your answers need not be technically accurate (but it would be appreciated) and can be loosely worded, but they MUST have some intuition backing them.
@@ -37,7 +36,7 @@ To apply for this project one must attempt to solve a (simple) selection task an
 Completed applications are to be submitted by **16th May 2022 11:59PM**!
 
 <h3>
-    <center><a style="background-color:#ffcc00;" href="https://forms.gle/MxdeKKPYW37Wa1Ls5">Submission Link</a></center>
+    <center><a href="https://forms.gle/MxdeKKPYW37Wa1Ls5">Submission Link</a></center>
 </h3>
 
 <div class="container">
