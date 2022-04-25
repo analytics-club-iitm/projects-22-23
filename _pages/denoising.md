@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Point Cloud De-noising
+title: PCD
 ---
 
 <h1>
