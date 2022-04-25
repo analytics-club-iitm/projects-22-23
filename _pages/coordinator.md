@@ -9,7 +9,7 @@ title: Coordinator
 
 # Description
 
-
+To be updated.
 
 
 <p align="center">
@@ -32,7 +32,7 @@ To apply as a coordinator one must write the application consisting of two parts
 
 # Submission Deadline
 
-Completed applications are to be submitted by **16th May 2022 11:59PM**!
+Completed applications are to be submitted by **9th May 2022 11:59PM**!
 
 <h3>
     <center><a style="background-color:#ffcc00;" href="https://forms.gle/kFZyvJkfpcT2hYk66">Submission Link</a></center>
