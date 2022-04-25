@@ -33,7 +33,7 @@ To apply as a coordinator one must write the application consisting of two parts
 
 # Submission Deadline
 
-Completed applications are to be submitted by **3rd May 2022 11:59PM**!
+Completed applications are to be submitted through mail (at analyticsclubcfi.iitm@gmail.com) by **3rd May 2022 11:59PM**!
 
 <!-- <h3>
 <center><a href="https://forms.gle/kFZyvJkfpcT2hYk66">Submission Link</a></center>
