@@ -11,7 +11,7 @@ title: [SIP] Project Pingala
 
 Sanskrit is a beautiful language consisting of various meters and tunes. Sanskrit verses are amazing to hear when sung in the right way. Our goal is to build a speech synthesizer for Sanskrit poetry. The synthesizer takes in the Sanskrit text as input, considers the “meter” in which a given verse is composed, and modulates the syllables accordingly to generate the speech.
 Many great Sanskrit scholars struggle to recite verses written using meters like Āryā, which are tough to recite. Hence, this tool would aid scholars and learners in improving their pronunciation of Sanskrit verses. We would aim to create a dataset and publish it publicly to encourage more research works in this field. Future works would also include generalizing the approach to other languages like Tamil, Telugu, etc. 
-The below example depicts how very similar-looking verses are pronounced entirely differently meters.
+The below example depicts how very similar-looking verses are pronounced entirely in different meters.
 
 <h3>
     <center><a href="https://drive.google.com/file/d/1yuOQk7EEY0mbvgE76rxaKsi6D0SDV0gw/view?usp=drivesdk">
