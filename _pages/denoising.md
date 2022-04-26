@@ -27,7 +27,7 @@ To apply for this project one must attempt to solve a (simple) selection task an
 </h3>
 
 <h3>
-    <center><a href="https://docs.google.com/document/d/1aKnjR931XnUDpf5CFhDPcpOb6dOj28cG/edit#heading=h.59nal09o3hw3">Application Link</a></center>
+    <center><a href="https://drive.google.com/drive/u/1/folders/1ggrbO-Qxs1tThaMFIG5_Yj2w3M6c1qPw#heading=h.59nal09o3hw3">Application Link</a></center>
 </h3>
 
 > **TIP**: Deep Learning was invented to mimic how a neuron/human learns (atleast to a certain degree). Keep this in mind while answering the questions above. Your answers need not be technically accurate (but it would be appreciated) and can be loosely worded, but they MUST have some intuition backing them.
