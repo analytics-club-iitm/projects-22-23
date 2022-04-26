@@ -9,7 +9,7 @@ title: VHA
 
 # Description
 
-Have you ever wondered how Virtual Assistants like ‘Siri’ and ‘Alexa’ work? Or Chitti from Movie Robot was Programmed to perform complex tasks? We aim to build a virtual home tasker using Reinforcement Learning techniques. We’ll first be training agents (virtual robots) in a highly efficient photorealistic 3D simulation before transferring the learned skills to reality. This will be a transition from ‘internet AI’ based on static datasets to AI agents which act within realistic environments. 
+Have you ever wondered how Virtual Assistants like ‘Siri’ and ‘Alexa’ work? Or Chitti from 'Robot' was programmed to perform complex tasks? In this ambitious project, we aspire to build a virtual home tasker using Reinforcement Learning techniques. We’ll first be training agents (virtual robots) in a highly efficient photorealistic 3D simulation before transferring the learned skills to reality. This will be a transition from ‘internet AI’ based on static datasets to AI within realistic environments. 
 This will lead to a doorway to developing an android humanoid robot, which can help people in their household work and generalize it to outdoor and indoor tasks.
 The video below describes the environment and the basic actions that the machine will perform and would be trained using Reinforcement Learning techniques. 
 
