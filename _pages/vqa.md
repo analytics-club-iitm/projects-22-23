@@ -26,6 +26,10 @@ To apply for this project one must attempt to solve a (simple) selection task an
 </h3>
 
 <h3>
+    <center><a href="https://chat.whatsapp.com/ELSGKK2bRDBFuo4OGEWUFm">Asp. PM WhatsApp Group Link</a></center>
+</h3>
+
+<h3>
     <center><a href="https://drive.google.com/drive/u/1/folders/1dmUVR2as-KNANzYvfU1b2gxZ6Kjx74v1#heading=h.59nal09o3hw3">Application Link</a></center>
 </h3>
 
