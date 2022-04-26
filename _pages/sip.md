@@ -9,8 +9,8 @@ title: [SIP] Project Pingala
 
 # Description
 
-Sanskrit is a beautiful language consisting of various meters and tunes. It’s recent involvement with artificial intelligence is an honor proving its power for being a valuable course of literature. The synthesizer takes in the Sanskrit text as input, considers the “meter” in which a given verse is composed, and modulates the syllables accordingly to generate the speech.
-Many great Sanskrit scholars struggle to recite verses written using meters like Āryā, which are tough to recite. Hence, this tool would aid scholars and learners in improving their pronunciation of Sanskrit verses. We would aim to create a dataset and publish it publicly to encourage more research works in this field. Future works would also include generalizing the approach to other languages like Tamil, Telugu, etc. 
+Sanskrit is a beautiful language consisting of various meters and tunes. It’s recent involvement with artificial intelligence (and recognition from NASA) is an honor proving its power for being a valuable course of literature. The synthesizer takes in Sanskrit text as an input, considers the “meter” in which a given verse is composed, and modulates the syllables accordingly to generate speech.
+Many great Sanskrit scholars struggle to recite verses written using meters like Āryā, which are tough to recite. There has been close to no work on Text-to-Speech models in Sanskrit. This tool would aid scholars and learners in improving their pronunciation of Sanskrit verses. We are also planning to create a dataset publicly to encourage more research in this field. Future goals include generalizing the approach adopted here to other languages like Tamil, Telugu, etc. 
 The below example depicts how very similar-looking verses are pronounced entirely differently meters.
 
 <h3>

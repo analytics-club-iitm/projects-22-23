@@ -9,7 +9,7 @@ title: AI on Edge
 
 # Description
 
-Have you ever wondered how easy it would be for visually impaired people if they had a lifelong assistant to whom they could ask questions about what they see around them? We aim to develop a device, which takes in the image as the input, and the user can ask relevant questions regarding the image, and the machine replies with an answer taking in the Image as a context. We plan to integrate this tool into an edge device to make it accessible to physically challenged people. The illustration bellow gives you a taste of what the tool can achieve. 
+Have you ever wondered how easy it would be for visually impaired people if they had a lifelong assistant for scenic descriptions? We are planning to develop a device, which takes in the image as input, and the user can ask relevant questions regarding the image for which the machine replies with an answer taking in the image as a context. We plan to integrate this tool into an edge device to make it accessible to physically challenged people. The illustration bellow gives you a taste of what the tool can achieve. 
 
 <p align="center">
     <img src="assets/images/VQA.gif" width="75%">
