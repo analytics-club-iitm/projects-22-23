@@ -23,7 +23,7 @@ To apply as a coordinator one must write the application consisting of two parts
 </h3>
 
 <h3>
-    <center><a href="https://chat.whatsapp.com/IyEoIZz66eK2d8cmN1D4Lk">Asp. Coordinators WhatsApp Group Link</a></center>
+    <center><a href="https://chat.whatsapp.com/JQzuu3ODpqaGFH9VuJogTR">Asp. Coordinators WhatsApp Group Link</a></center>
 </h3>
 
 <h3>
