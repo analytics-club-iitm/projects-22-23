@@ -26,6 +26,10 @@ To apply for this project one must attempt to solve a (simple) selection task an
 </h3>
 
 <h3>
+    <center><a href="https://chat.whatsapp.com/ELSGKK2bRDBFuo4OGEWUFm">Asp. PM WhatsApp Group Link</a></center>
+</h3>
+
+<h3>
     <center><a href="https://drive.google.com/drive/u/1/folders/1dmUVR2as-KNANzYvfU1b2gxZ6Kjx74v1#heading=h.59nal09o3hw3">Application Link</a></center>
 </h3>
 
@@ -33,12 +37,12 @@ To apply for this project one must attempt to solve a (simple) selection task an
 
 # Submission Deadline
 
-Completed applications are to be submitted by **16th May 2022 11:59PM**!
+Completed applications are to be submitted by **14th May 2022 11:59PM**!
 
 <h3>
     <center><a href="https://forms.gle/MxdeKKPYW37Wa1Ls5">Submission Link</a></center>
 </h3>
 
 <div class="container">
-    <div class="countdown-styled" data-date="May 16, 2022 23:59:59"></div>
+    <div class="countdown-styled" data-date="May 14, 2022 23:59:59"></div>
 </div>

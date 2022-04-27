@@ -19,7 +19,11 @@ To apply as a coordinator one must write the application consisting of two parts
 - Technical Questionnaire.
 
 <h3>
-    <center><a href="https://docs.google.com/document/d/1kGp69ftvX-qoPiPQuJNJtsvBM3amoTOz/edit?usp=sharing&ouid=103814542192068273423&rtpof=true&sd=true">Application Link</a></center>
+    <center><a href="https://drive.google.com/drive/folders/1jgrG_uQMW5SuTKZhLy8Q7rT2HJ5_7aBP?usp=sharing">Application Link</a></center>
+</h3>
+
+<h3>
+    <center><a href="https://chat.whatsapp.com/IyEoIZz66eK2d8cmN1D4Lk">Asp. Coordinators WhatsApp Group Link</a></center>
 </h3>
 
 <h3>
